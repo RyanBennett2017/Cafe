@@ -1,0 +1,18 @@
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu\bin\Debug\Menu.exe.config
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu\bin\Debug\Menu.exe
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu\bin\Debug\Menu.pdb
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu\obj\Debug\Menu.exe
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu\obj\Debug\Menu.pdb
+F:\Cafe\Menu\bin\Debug\Menu.exe.config
+F:\Cafe\Menu\obj\Debug\Menu.exe
+F:\Cafe\Menu\obj\Debug\Menu.pdb
+F:\Cafe\Menu\bin\Debug\Menu.exe
+F:\Cafe\Menu\bin\Debug\Menu.pdb
+F:\Cafe\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+F:\Cafe\Menu\obj\Debug\Menu.Form1.resources
+F:\Cafe\Menu\obj\Debug\Menu.Properties.Resources.resources
+F:\Cafe\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache

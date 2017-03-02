@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Menu", "Menu", "{CBC49F08-4B5F-40AA-AF75-67FCE49D130F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu", "Menu\Menu.csproj", "{2C10AF1F-AFDF-40B2-B216-0A6842DDA3D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Menu.UnitTests", "Menu.UnitTests", "{1D6355ED-FBA1-4FCF-B6E2-EC51155EC46D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu.UnitTests", "Menu.UnitTests\Menu.UnitTests.csproj", "{0F3466C8-BD4E-40BA-9180-6D1C0E217B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C10AF1F-AFDF-40B2-B216-0A6842DDA3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C10AF1F-AFDF-40B2-B216-0A6842DDA3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C10AF1F-AFDF-40B2-B216-0A6842DDA3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C10AF1F-AFDF-40B2-B216-0A6842DDA3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3466C8-BD4E-40BA-9180-6D1C0E217B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3466C8-BD4E-40BA-9180-6D1C0E217B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3466C8-BD4E-40BA-9180-6D1C0E217B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3466C8-BD4E-40BA-9180-6D1C0E217B84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2C10AF1F-AFDF-40B2-B216-0A6842DDA3D0} = {CBC49F08-4B5F-40AA-AF75-67FCE49D130F}
+		{0F3466C8-BD4E-40BA-9180-6D1C0E217B84} = {1D6355ED-FBA1-4FCF-B6E2-EC51155EC46D}
+	EndGlobalSection
+EndGlobal

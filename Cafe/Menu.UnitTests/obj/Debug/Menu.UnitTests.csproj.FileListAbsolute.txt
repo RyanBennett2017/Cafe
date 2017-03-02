@@ -1,0 +1,14 @@
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu.UnitTests\bin\Debug\Menu.UnitTests.dll
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu.UnitTests\bin\Debug\Menu.UnitTests.pdb
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu.UnitTests\bin\Debug\Menu.exe
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu.UnitTests\bin\Debug\Menu.pdb
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu.UnitTests\obj\Debug\Menu.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu.UnitTests\obj\Debug\Menu.UnitTests.dll
+C:\Users\ryanb\Documents\Visual Studio 2012\Projects\Cafe\Menu.UnitTests\obj\Debug\Menu.UnitTests.pdb
+F:\Cafe\Menu.UnitTests\bin\Debug\Menu.UnitTests.dll
+F:\Cafe\Menu.UnitTests\bin\Debug\Menu.UnitTests.pdb
+F:\Cafe\Menu.UnitTests\bin\Debug\Menu.exe
+F:\Cafe\Menu.UnitTests\bin\Debug\Menu.pdb
+F:\Cafe\Menu.UnitTests\obj\Debug\Menu.UnitTests.csprojResolveAssemblyReference.cache
+F:\Cafe\Menu.UnitTests\obj\Debug\Menu.UnitTests.dll
+F:\Cafe\Menu.UnitTests\obj\Debug\Menu.UnitTests.pdb
